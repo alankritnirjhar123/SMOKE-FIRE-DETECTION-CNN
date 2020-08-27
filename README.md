@@ -41,7 +41,7 @@ Due to significant range of augmentation techniques used, it was made sure to ke
 
 Batch Size was kept very low (8), as the dataset was not big
 
-
 Optimizer "ADAM" with a very low learning rate – "0.000001" was used because of a very small batch size.
-**Note- SGD with momentum was also experimented with but with inaccurate results and less convergence efficiency towards a solution.
+
+*Note- SGD with momentum was also experimented with but with inaccurate results and less convergence efficiency towards a solution.
 -------------------------------------
