@@ -68,7 +68,7 @@ More epochs would have also increased the accuracy as the loss was constantly fa
 SHORTCOMINGS:
 
 
-The Model would not effective in distinguishing between a person smoking(a cigarette/any other stuff one could possible imagine) and smoke inside house due to fire.
+The Model would not effective in distinguishing between a person smoking(a cigarette/any other stuff one could possible imagine) VS smoke inside house due to fire.
 
 It needs to be modified by modifying and supplying some smoking images or barbeque images or warming fireplace (or any other such situations where indoor or outdoor smoke is not hostile) in the safe directory for the model to be trained on.
 
