@@ -12,7 +12,7 @@ The dataset size has been experimental and thus considerably lesser than what is
 
 
 ------------------------------------
-Data Augmentation (MODEL 1.0):
+Data Augmentation:
 
 
 Due to Scarcity of the Data, various Data Augmentation (on the fly) techniques were used keeping in mind which ones could be useful and which ones could make the model poor.
@@ -21,7 +21,7 @@ The rotation range kept within 50 degrees, brightness augmentation in the range 
 
 
 ------------------------------------
-MODEL 1.0:
+MODEL Architecture:
 
 
 The model used uses Conv2d Layers with max pooling layer having - padding and strides of 2 pixels with each convolutional layer activated via RELU(Rectified Linear Unit) Function.\
