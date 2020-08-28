@@ -1,7 +1,7 @@
 Image Classification Task to Classify Images containing Smoke/Fire as Unsafe and Images not having Smoke/Fire as Safe
 
 
-NEURAL NETWORK – MODEL -   SAFE(No Fire/Smoke) / UNSAFE(Fire&Smoke)
+CONVOLUTIONAL NEURAL NETWORK – MODEL -   SAFE(No Fire/Smoke) / UNSAFE(Fire&Smoke)
 
 Deep Learning Framework Used - Tensorflow (Version 2.3.0)
 
